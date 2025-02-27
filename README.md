@@ -32,17 +32,6 @@ git clone https://github.com/Rangga056/learn-golang.git
 cd learn-golang
 ```
 
-## 🛠️ Usage
-Run any example file:
-```bash
-go run basics/variables/variables.go
-```
-
-Build an executable:
-```bash
-go build basics/variables/variables.go
-```
-
 ## 📚 Topics Covered
 ### Basics
 - [Variables and Constants](basics/variables/)
